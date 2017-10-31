@@ -1,5 +1,5 @@
 # hello-world
-Hello World First Rep
-Hello,
-
-I like to program in Java and Processing and also C# and JavaScript!
+1. Click Clone or Download
+2. Click Download
+3. Isolate TBA 2.0 folder
+4. Open with IDE of choice
